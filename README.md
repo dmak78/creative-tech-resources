@@ -84,7 +84,7 @@ http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraph
 ![4 sided gopro](images/diy2.jpg)
 http://punkoryan.com/2011/02/08/shooting-360-degree-video-with-four-gopro-hd-hero-cameras
 
-### Full Tutorial Using Various Devices and Approaches
+### Learn360Photography.com: A Comprehensive Tutorial Using Various Devices and Approaches
 http://www.learn360photography.com/
 
 ## Professional 360 Cameras
