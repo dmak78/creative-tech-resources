@@ -1,13 +1,15 @@
 # 360° Video and Audio Capture for VR Applications
+
 [Project: Skrillex Train Dome](#skrillex-train-dome)
 
+[Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
+
 [Paul Bourke](#paul-bourke)
+http://paulbourke.net/
 
 [Spherical Image Capture](#spherical-image-capture)
 
 [Fisheye Lenses](#fisheye-lenses)
-
-[Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
 
 [DIY 360 Rigs](#diy-360-rigs)
 
