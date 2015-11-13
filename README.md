@@ -21,6 +21,8 @@ in the past I have done a plethora of research into immersive environment captur
 projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
 new and inventive ways to capture an aesthetic that has yet to be seen or used in immersive applications.
 imo technical limitations create new opportunities for inventiveness and provide an atmosphere where a new aesthetic can be created; 
+some of this is inspiration, thought starters, technical resources, 
+but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. 
 
 
 
@@ -51,6 +53,10 @@ http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraph
 #### REED+RADER
 ![REED+RADER Heads](images/gif1.gif)
 http://reedandrader.com/
+
+Pamela Reed and Matthew Rader, known as REED+RADER are a couple of friends of mine that are, in my my opinion, pushing the boundaries of the moving image in a bright and unique way, unlike anything I have ever seen. Through integration of unique hair and makeup, set designs, multi-angle still phototography, video, 3D game engines, and more, these two very interesting people have swiftly become a highly sought after production team for large fashion and entertainment clients. For example, you may have seen their [recent promos for the MTV Music Awards featuring Miley Cyrus](http://reedandrader.com/mtvvmas.html#content) ( and her cat ):
+
+![REED+RADER MTV Music Awards](images/gif2.gif)
 
 
 ## DIY 360 Rigs
