@@ -110,6 +110,8 @@ In addition, Chronopanorama and Cinemagraphs could be captured with pairs of cam
 ![DIY Sphere Rig 1](images/sphere1.jpg)
 ![DIY Sphere Rig 2](images/sphere2.jpg)
 
+... need more ...
+
 
 ### Fisheye Lenses
 ![180 Degrees](images/fish1.jpg)
@@ -135,14 +137,19 @@ http://www.learn360photography.com/
 
 
 ## Professional 360 Cameras
+
+... need more ...
+
 #### Ladybug5 
 ![Ladybug5](images/ladybug-pro.jpg "The LadyBug5 360° USB3")
 https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems
 
-...need more...
+...need more examples ...
 
 
 ## 3D and Binaural Sound Capture
+![3Dio Binaural Microphones](images/binaural1.jpg "3Dio Binaural Microphone")
+
 in progress
 
 
