@@ -7,13 +7,20 @@
 
 [Fisheye Lenses](#fisheye-lenses)
 
-[Cinemagraphs](#cinemagraphs)
+[Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
 
 [DIY 360 Rigs](#diy-360-rigs)
 
 [Output Formats](#output-formats)
 
 [Additional Resources and Links](#additional-resources-and-links)
+
+## Introduction and Philosophy
+
+in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
+projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
+new and inventive ways to capture an aesthetic that has yet to be seen or used in immersive applications.
+imo technical limitations create new opportunities for inventiveness and provide an atmosphere where a new aesthetic can be created; 
 
 
 
@@ -26,12 +33,25 @@
 
 ## Fisheye Lenses
 
-## Cinemagraphs
+## Cinemagraphs and GIF Art
+
+### Cinemagraphs
+Somewhere between the still image and movie exists the *cinemagraph*.
+
+> A cinemagraph is a living moment in an otherwise still photograph.
+
 ![Cinemagraph 1](images/graph1.gif)
 http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
 
 #### Cinemagraphs.com
 [cinemagraphs.com](http://cinemagraphs.com/)
+
+### GIF Art
+
+#### REED+RADER
+![REED+RADER Heads](images/gif1.gif)
+http://reedandrader.com/
+
 
 ## DIY 360 Rigs
 ![5 sided stereo](images/diy1.jpg)
