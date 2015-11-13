@@ -54,9 +54,8 @@ Kevin Burg and Jamie Beck are a photographers that have been traveling the world
 
 #### REED+RADER
 ![REED+RADER Heads](images/gif1.gif)
-http://reedandrader.com/
 
-Pamela Reed and Matthew Rader, known as REED+RADER are a couple of friends of mine that are, in my my opinion, pushing the boundaries of the moving image in a bright and unique way, unlike anything I have ever seen. Through integration of unique hair and makeup, set designs, multi-angle still phototography, video, 3D game engines, and more, these two very interesting people have swiftly become a highly sought after production team for large fashion and entertainment clients. For example, you may have seen their [recent promos for the MTV Music Awards featuring Miley Cyrus](http://reedandrader.com/mtvvmas.html#content) ( and her cat ):
+Pamela Reed and Matthew Rader, known as [REED+RADER](http://reedandrader.com/) are a couple of friends of mine that are, in my my opinion, pushing the boundaries of the moving image in a bright and unique way, unlike anything I have ever seen. Through integration of unique hair and makeup, set designs, multi-angle still phototography, video, 3D game engines, and more, these two very interesting people have swiftly become a highly sought after production team for large fashion and entertainment clients. For example, you may have seen their [recent promos for the MTV Music Awards featuring Miley Cyrus](http://reedandrader.com/mtvvmas.html#content) ( and her cat ):
 
 ![REED+RADER MTV Music Awards](images/gif2.gif)
 
