@@ -27,10 +27,16 @@
 ## Fisheye Lenses
 
 ## Cinemagraphs
+![Cinemagraph 1](images/graph1.gif)
+http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
+
+[cinemagraphs.com](http://cinemagraphs.com/)
 
 ## DIY 360 Rigs
 ![5 sided stereo](images/diy1.jpg)
+http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
 ![4 sided gopro](images/diy2.jpg)
+http://punkoryan.com/2011/02/08/shooting-360-degree-video-with-four-gopro-hd-hero-cameras
 
 ## Professional 360 Cameras
 ### Ladybug5 
