@@ -62,17 +62,20 @@ A combination of time-lapse and panorama, Chronopanorama is a photographic techn
 
 
 ## Fisheye Lenses
+![180 Degrees](images/fish1.jpg)
 
+When creating content for a full-size dome projection, a 180° fisheye lens was used to capture high resolution video to be projected into the dome, providing users a view that engaged their peripheral vision, virtually stepping into the image. The 180° content was also used in a custom iOS app that allowed the user to pan around the 180° view. 
+
+This was nearly 5 years ago, and VR was still only a dream, but a dream on the horizon. Using 2-3 180° degree camera rigs or, creative stiching of video and imagery captured from a single DSLR with a fisheye lens, this method could be used to capture and/or create compelling high resolution 360° visualscapes for VR and 360 video applications. 
+
+Links: 
+[180° 8-15mm Canon Fisheye Lens](http://explore-lenses.usa.canon.com/ef_8-15mm_f4l_fisheye_usm.html)
 
 ## Cinemagraphs and GIF Art
 
 ### Cinemagraphs
-Somewhere between the still image and movie exists the *cinemagraph*.
-
-> A cinemagraph is a living moment in an otherwise still photograph.
-
-![Cinemagraph 1](images/graph1.gif)
-http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
+![Cinemagraph 1](images/graph1.gif "http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs")
+> Somewhere between the still image and movie exists the *cinemagraph. A cinemagraph is a living moment in an otherwise still photograph - Cinemagraphs.com
 
 #### Cinemagraphs.com
 ![Cinemagraph 1](images/gif3.gif)
