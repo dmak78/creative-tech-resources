@@ -114,6 +114,8 @@ This was nearly 5 years ago, and VR was still only a dream, but a dream on the h
 
 Links: 
 [180° 8-15mm Canon Fisheye Lens](http://explore-lenses.usa.canon.com/ef_8-15mm_f4l_fisheye_usm.html)
+[Paul Bourke's Fisheye Lens Comparison Table](http://paulbourke.net/dome/scarlet/)
+[Paul Bourke's Fisheye Projection Warping](http://paulbourke.net/dome/fisheye/)
 
 ### With GoPros
 ![5 sided stereo](images/diy1.jpg)
