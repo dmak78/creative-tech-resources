@@ -29,6 +29,7 @@
 ## Cinemagraphs
 
 ## DIY 360 Rigs
+![5 sided stereo](images/diy1.jpg)
 
 ## Output Formats
 
