@@ -30,6 +30,13 @@
 
 ## DIY 360 Rigs
 ![5 sided stereo](images/diy1.jpg)
+![4 sided gopro](images/diy2.jpg)
+
+## Professional 360 Cameras
+### Ladybug5 
+![Ladybug5](images/ladybug-pro.jpg "The LadyBug5 360° USB3")
+https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems
+
 
 ## Output Formats
 
