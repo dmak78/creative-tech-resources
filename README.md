@@ -17,7 +17,9 @@ yet original and unique art, aesthetics and storytelling are waiting in the wing
 
 It is my firm belief that the most compelling approaches to immersive storytelling within the VR medium will be include such concepts as non-linearty, contrasted and varied temporality, visual juxtaposition, mixed media (3D Video with CGI), 3D soundscapes, and new digital aesthtics. Through the inclusion of opposites, the pairing and mixing of mediums, and a fervent experiemental spirit, VR will become 'its own thing' and those at the forefront of the medium will have an opportunity to create an entirely new art form.
 
-The ideas approaches concepts and inspirations found in this document are meant to provide an entry point and a topical resource that will help define how VR becomes as original a storytelling medium as cinema and 'cinematic' television.
+The ideas, approaches, concepts, and inspirations found in this document are meant to provide an entry point and a topical resource that will help define how VR becomes as original a storytelling medium as cinema and 'cinematic' television.
+
+Overall, this document is dedicated to capturing panoramas, spherical video, and how to do all this on a budget, or with a creative approach that produces a creative aesthetic. All of this has a clear path to being integrated into experience for YouTube 360 Video, Google Cardboard, Occulus Rift, etc. Through this document you can find everything you need to create worlds that can be inhabited and interacted with via the various VR mediums available today.
 
 [Paul Bourke](#paul-bourke)
 
