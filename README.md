@@ -33,10 +33,10 @@
 ## Output Formats
 
 ## Additional Resources and Links
--panorama software
--camera
--rigs
--code
+- panorama software
+- camera
+- rigs
+- code
 
 
 
