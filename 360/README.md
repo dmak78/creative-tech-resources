@@ -68,7 +68,7 @@ A combination of time-lapse and panorama, Chronopanorama is a photographic techn
 
 ### Cinemagraphs
 ![Cinemagraph 1](images/graph1.gif "http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs")
-> Somewhere between the still image and movie exists the *cinemagraph. A cinemagraph is a living moment in an otherwise still photograph - Cinemagraphs.com
+> A cinemagraph is a living moment in an otherwise still photograph. It exists in the world in between a photograph and video to bring to life the image and make it last forever. - Cinemagraphs.com
 
 #### Cinemagraphs.com
 ![Cinemagraph 1](images/gif3.gif)
