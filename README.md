@@ -46,7 +46,9 @@ Somewhere between the still image and movie exists the *cinemagraph*.
 http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
 
 #### Cinemagraphs.com
-[cinemagraphs.com](http://cinemagraphs.com/)
+![Cinemagraph 1](images/gif3.gif)
+
+Kevin Burg and Jamie Beck are a photographers that have been traveling the world for very large clients, taking some amazing photographs, and bringing them to life utilizing subtle movements with the stillness of the photograph. Almost unnoticable at times, the movement provides an interesting juxtaposition against the static image the movements exists within. Check out their work here: [cinemagraphs.com](http://cinemagraphs.com/)
 
 ### GIF Art
 
