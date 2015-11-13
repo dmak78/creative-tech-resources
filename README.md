@@ -1,11 +1,21 @@
 # 360° Video and Audio Capture for VR Applications
 
-[Project: Skrillex Train Dome](#skrillex-train-dome)
+
+## Introduction: The Great Skrillex Train Dome
+![Skrillex on a Train with Dome](images/skrillex.jpg "Skrillex on a Train")
+
+in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
+projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
+new and inventive ways to capture an aesthetic that has yet to be seen or used in immersive applications.
+imo technical limitations create new opportunities for inventiveness and provide an atmosphere where a new aesthetic can be created; 
+some of this is inspiration, thought starters, technical resources, 
+but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. 
+
+[Paul Bourke](#paul-bourke)
 
 [Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
 
-[Paul Bourke](#paul-bourke)
-http://paulbourke.net/
+[Chronopanorama](#chronopanorama)
 
 [Spherical Image Capture](#spherical-image-capture)
 
@@ -17,25 +27,28 @@ http://paulbourke.net/
 
 [Additional Resources and Links](#additional-resources-and-links)
 
-## Introduction and Philosophy
-
-in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
-projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
-new and inventive ways to capture an aesthetic that has yet to be seen or used in immersive applications.
-imo technical limitations create new opportunities for inventiveness and provide an atmosphere where a new aesthetic can be created; 
-some of this is inspiration, thought starters, technical resources, 
-but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. 
-
-
-
-## Skrillex Train Dome
-![Skrillex on a Train with Dome](images/skrillex.jpg "Skrillex on a Train")
 
 ## Paul Bourke
+Paul Bourke is the man. He is an Australian professor who has been working for the last few decades on everything related to immersive media via his original work and research into such things as dome projection, 3D geometry and materials, the math related to projection mapping, how to capture panoramas, how to project panaorama into physical environments, and so so so so much more. He is actively working, speaking at conferences, and as far as I know, is still the number 1 goto resource for projection mapping and immersive environment creation; the math, the code, the concepts, the tools, he has done all of it!
+
+His main focus for a time was related to [large and full scale dome projection installations](http://paulbourke.net/dome/faq.html), but in the process his work has also become highly applicable to the creation of 3D and 360° environments in VR. 
+
+Jump into the rabgit hole here: http://paulbourke.net/
+
+Paul Bourke's work and concpets will be referenced and linked to throughout this document, and while many of his works are older, the concepts and appraoches and math, are still sound and very much applicable to capturing, creating, and producing immersive experiences.
+
+
+## Chronopanorama
+http://paulbourke.net/miscellaneous/timelapsepano/
+
 
 ## Spherical Image Capture
+![DIY Sphere Rig 1](images/sphere1.jpg)
+![DIY Sphere Rig 2](images/sphere2.jpg)
+
 
 ## Fisheye Lenses
+
 
 ## Cinemagraphs and GIF Art
 
@@ -63,11 +76,16 @@ Pamela Reed and Matthew Rader, known as [REED+RADER](http://reedandrader.com/) a
 
 
 ## DIY 360 Rigs
+
+### With GoPros
 ![5 sided stereo](images/diy1.jpg)
 http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs
 
 ![4 sided gopro](images/diy2.jpg)
 http://punkoryan.com/2011/02/08/shooting-360-degree-video-with-four-gopro-hd-hero-cameras
+
+### Full Tutorial Using Various Devices and Approaches
+http://www.learn360photography.com/
 
 ## Professional 360 Cameras
 #### Ladybug5 
