@@ -4,6 +4,8 @@
 ## Introduction: The Great Skrillex Train Dome
 ![Skrillex on a Train with Dome](images/skrillex.jpg "Skrillex on a Train")
 
+The whole point of this document is begin putting seemingly disparate media together to provide a clearer path as to their application in immersive VR experiences. 
+
 working notes:
 *in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
 projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
@@ -22,6 +24,10 @@ The ideas, approaches, concepts, and inspirations found in this document are mea
 
 Overall, this document is dedicated to capturing panoramas, spherical video, and how to do all this on a budget, or with a creative approach that produces a creative aesthetic. All of this has a clear path to being integrated into experience for YouTube 360 Video, Google Cardboard, Occulus Rift, etc. Through this document you can find everything you need to create worlds that can be inhabited and interacted with via the various VR mediums available today.
 
+Concepts: juxatoposition, non-linearity, duality, paradox, immersion, hyperreality, professional-grade DIY
+
+
+
 [Paul Bourke](#paul-bourke)
 
 [Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
@@ -34,7 +40,7 @@ Overall, this document is dedicated to capturing panoramas, spherical video, and
 
 [DIY 360 Rigs](#diy-360-rigs)
 
-[Output Formats](#output-formats)
+[Output Formats for Use in VR](#output-formats-for-vr)
 
 [Additional Resources and Links](#additional-resources-and-links)
 
@@ -53,23 +59,8 @@ Paul Bourke's work and concpets will be referenced and linked to throughout this
 ![Example: Chronopanorama](images/chrono1.jpg)
 http://paulbourke.net/miscellaneous/timelapsepano/
 
-A combination of time-lapse and panorama, Chronopanorama is a photographic technique and aesthetic that emphasizes and 
+A combination of time-lapse and panorama, Chronopanorama is a photographic technique and aesthetic that emphasizes and time juxtaposition and provieds a DIY approach for creating 360 imagery for use in VR.
 
-
-## Spherical Image Capture
-![DIY Sphere Rig 1](images/sphere1.jpg)
-![DIY Sphere Rig 2](images/sphere2.jpg)
-
-
-## Fisheye Lenses
-![180 Degrees](images/fish1.jpg)
-
-When creating content for a full-size dome projection, a 180° fisheye lens was used to capture high resolution video to be projected into the dome, providing users a view that engaged their peripheral vision, virtually stepping into the image. The 180° content was also used in a custom iOS app that allowed the user to pan around the 180° view. 
-
-This was nearly 5 years ago, and VR was still only a dream, but a dream on the horizon. Using 2-3 180° degree camera rigs or, creative stiching of video and imagery captured from a single DSLR with a fisheye lens, this method could be used to capture and/or create compelling high resolution 360° visualscapes for VR and 360 video applications. 
-
-Links: 
-[180° 8-15mm Canon Fisheye Lens](http://explore-lenses.usa.canon.com/ef_8-15mm_f4l_fisheye_usm.html)
 
 ## Cinemagraphs and GIF Art
 
@@ -91,8 +82,28 @@ Pamela Reed and Matthew Rader, known as [REED+RADER](http://reedandrader.com/) a
 
 ![REED+RADER MTV Music Awards](images/gif2.gif)
 
+### So What Do GIFs, Chronopanoramas, and Cinemagraphs Have to Do With VR?!
+Playing with time and movement, playing with perspective and mixed imagery, creative uses of cameras to create panaormas whilst also creating an interesting aesthetic: these are all reason I think these are important to the creation of VR experiences. 
+
+Any panaroma can be turned into an environment, cubemap, and/or skybox within 3D game engines, WebGL, openGL, etc. Creating panaroma with chronopanaorma would provide an intersting 'place' to visit within VR which play with time and expectation. With the addition of mixed media and cinemagraphic techniques, these concepts seem to provide an interesting foundation for storytelling in a way no one has experienced before in immersive applications.
+
 
 ## DIY 360 Rigs
+
+### Spherical Image Capture
+![DIY Sphere Rig 1](images/sphere1.jpg)
+![DIY Sphere Rig 2](images/sphere2.jpg)
+
+
+### Fisheye Lenses
+![180 Degrees](images/fish1.jpg)
+
+When creating content for a full-size dome projection, a 180° fisheye lens was used to capture high resolution video to be projected into the dome, providing users a view that engaged their peripheral vision, virtually stepping into the image. The 180° content was also used in a custom iOS app that allowed the user to pan around the 180° view. 
+
+This was nearly 5 years ago, and VR was still only a dream, but a dream on the horizon. Using 2-3 180° degree camera rigs or, creative stiching of video and imagery captured from a single DSLR with a fisheye lens, this method could be used to capture and/or create compelling high resolution 360° visualscapes for VR and 360 video applications. 
+
+Links: 
+[180° 8-15mm Canon Fisheye Lens](http://explore-lenses.usa.canon.com/ef_8-15mm_f4l_fisheye_usm.html)
 
 ### With GoPros
 ![5 sided stereo](images/diy1.jpg)
@@ -104,17 +115,19 @@ http://punkoryan.com/2011/02/08/shooting-360-degree-video-with-four-gopro-hd-her
 ### Learn360Photography.com: A Comprehensive Tutorial Using Various Devices and Approaches
 http://www.learn360photography.com/
 
+
 ## Professional 360 Cameras
 #### Ladybug5 
 ![Ladybug5](images/ladybug-pro.jpg "The LadyBug5 360° USB3")
 https://www.ptgrey.com/ladybug5-360-degree-usb3-spherical-camera-systems
 
 
-## Output Formats
+## Output Formats for VR
+
 
 ## Additional Resources and Links
 - panorama software
-- camera
+- cameras
 - rigs
 - code
 
