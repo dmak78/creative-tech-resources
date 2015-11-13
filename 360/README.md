@@ -132,6 +132,8 @@ http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraph
 ![4 sided gopro](images/diy2.jpg)
 http://punkoryan.com/2011/02/08/shooting-360-degree-video-with-four-gopro-hd-hero-cameras
 
+[GoPro Focal Length Chart](https://gopro.com/support/articles/hero3-field-of-view-fov-information)
+
 ### Learn360Photography.com: A Comprehensive Tutorial Using Various Devices and Approaches
 http://www.learn360photography.com/
 
