@@ -4,12 +4,13 @@
 ## Introduction: The Great Skrillex Train Dome
 ![Skrillex on a Train with Dome](images/skrillex.jpg "Skrillex on a Train")
 
-in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
+working notes:
+*in the past I have done a plethora of research into immersive environment capture, augmentation, and presentation
 projection onto dome shaped surfaces, 360° video applications, scene creation in Unity3D
 new and inventive ways to capture an aesthetic that has yet to be seen or used in immersive applications.
 imo technical limitations create new opportunities for inventiveness and provide an atmosphere where a new aesthetic can be created; 
 some of this is inspiration, thought starters, technical resources, 
-but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. 
+but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. *
 
 #### What Does Any of This Have to do with Virtual Reality?!
 It is my observation that this first wave of VR using mobile devices, and this new surge of interest and investment in VR products has its on primarily two things: gaming and immersive documentaries.
