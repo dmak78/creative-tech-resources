@@ -11,6 +11,14 @@ imo technical limitations create new opportunities for inventiveness and provide
 some of this is inspiration, thought starters, technical resources, 
 but mainly this is a living document that can be referred to in order to immerse oneself immersive experience creation. Its a document to explore what is emerging, and what is about to be possible. 
 
+#### What Does Any of This Have to do with Virtual Reality?!
+It is my observation that this first wave of VR using mobile devices, and this new surge of interest and investment in VR products has its on primarily two things: gaming and immersive documentaries.
+yet original and unique art, aesthetics and storytelling are waiting in the wings, ready to be compellingly used within VR. 'Cinematics' in the medium will come about with a new breed of creators who will start defining the cinematic language, concepts, and approaches that will take this emerging format to the next level, eventually allowing it to stand on its own as an entirely new and 'proper' art form.
+
+It is my firm belief that the most compelling approaches to immersive storytelling within the VR medium will be include such concepts as non-linearty, contrasted and varied temporality, visual juxtaposition, mixed media (3D Video with CGI), 3D soundscapes, and new digital aesthtics. Through the inclusion of opposites, the pairing and mixing of mediums, and a fervent experiemental spirit, VR will become 'its own thing' and those at the forefront of the medium will have an opportunity to create an entirely new art form.
+
+The ideas approaches concepts and inspirations found in this document are meant to provide an entry point and a topical resource that will help define how VR becomes as original a storytelling medium as cinema and 'cinematic' television.
+
 [Paul Bourke](#paul-bourke)
 
 [Cinemagraphs and GIF Art](#cinemagraphs-and-gif-art)
@@ -39,7 +47,10 @@ Paul Bourke's work and concpets will be referenced and linked to throughout this
 
 
 ## Chronopanorama
+![Example: Chronopanorama](images/chrono1.jpg)
 http://paulbourke.net/miscellaneous/timelapsepano/
+
+A combination of time-lapse and panorama, Chronopanorama is a photographic technique and aesthetic that emphasizes and 
 
 
 ## Spherical Image Capture
