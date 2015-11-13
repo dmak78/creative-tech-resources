@@ -44,7 +44,7 @@ Concepts: juxtaposition, non-linearity, duality, paradox, immersion, hyperrealit
 
 [Fisheye Lenses](#fisheye-lenses)
 
-[DIY 360 Rigs](#diy-360-rigs)
+[DIY 360° Rigs](#diy-360-degree-rigs)
 
 [3D and Binaural Sound Capture](#3d-and-binaural-sound-capture)
 
@@ -69,6 +69,8 @@ http://paulbourke.net/miscellaneous/timelapsepano/
 
 A combination of time-lapse and panorama, Chronopanorama is a photographic technique and aesthetic that emphasizes and time juxtaposition and provides a DIY approach for creating 360 imagery for use in VR.
 
+...need more ...
+
 
 ## Cinemagraphs and GIF Art
 
@@ -76,12 +78,16 @@ A combination of time-lapse and panorama, Chronopanorama is a photographic techn
 ![Cinemagraph 1](images/graph1.gif "http://thecreatorsproject.vice.com/blog/break-from-real-life-with-vr-cinemagraphs")
 > A cinemagraph is a living moment in an otherwise still photograph. It exists in the world in between a photograph and video to bring to life the image and make it last forever. - Cinemagraphs.com
 
+... need more ...
+
 #### Cinemagraphs.com
 ![Cinemagraph 1](images/gif3.gif)
 
 Kevin Burg and Jamie Beck are a photographers that have been traveling the world for very large clients, taking some amazing photographs, and bringing them to life utilizing subtle movements with the stillness of the photograph. Almost unnoticeable at times, the movement provides an interesting juxtaposition against the static image the movements exists within. Check out their work here: [cinemagraphs.com](http://cinemagraphs.com/)
 
 ### GIF Art
+
+... need more ; maybe an intro ...
 
 #### REED+RADER
 ![REED+RADER Heads](images/gif1.gif)
@@ -98,7 +104,7 @@ Any panorama can be turned into an environment, cubemap, and/or skybox within 3D
 In addition, Chronopanorama and Cinemagraphs could be captured with pairs of cameras creating an additional immersive element with stereoscopy, that is, instead of having simply being surrounded by a flat panorama in a VR experience, if the panorama itself was stereoscopic it would provide an additional layer of depth for the scene. See the 5 sided DIY GoPro VR Rig on this page as it illustrates the setup for a pairs of cameras on each side, which provides a panorama as well as a stero images for each piece of the panorama.
 
 
-## DIY 360 Rigs
+## DIY 360 Degree Rigs
 
 ### Spherical Image Capture
 ![DIY Sphere Rig 1](images/sphere1.jpg)
